@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Saira Stencil One', cursive;
+}
+
+.caja {
+    border: 1px solid black;
+    padding-top: 100px;
+    text-align: center;
+}
