@@ -164,3 +164,42 @@
     }  
 
 }
+
+@media only screen and (max-width: 1024px) {
+.
+.
+.
+
+    /* --------------------------------*/
+    /* Values section */
+    /* --------------------------------*/
+
+    .box {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        height: 270px;
+        padding: 4%;
+    }
+.
+.
+.
+}
+
+@media only screen and (max-width: 568px) {
+.
+.
+.
+    /* --------------------------------*/
+    /* Values section */
+    /* --------------------------------*/
+
+    .box {
+        width: 100%;
+        padding: 4%;
+        height: auto;
+    }
+.
+.
+.
+}
