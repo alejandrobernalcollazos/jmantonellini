@@ -126,3 +126,24 @@ p {
     width: 65vh;
     float: right;
 }
+
+/* --------------------------------*/
+/* VALUES SECTION */
+/* --------------------------------*/
+
+.values {
+    background-color: #f4f4f4;
+}
+
+.values-title {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.values-title h2 {
+    font-size: 2em;
+    text-align: center;
+}
